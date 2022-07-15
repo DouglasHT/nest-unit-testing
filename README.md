@@ -24,7 +24,7 @@
 
 ## Description
 
-```A CRUD project made using Clean Architecture, a simple databse in Postgres, and some few concepts of SOLIDS```
+```A CRUD project made using Clean Architecture, a simple database in Postgres, and some few concepts of SOLIDS. Tested using Unit Testing patterns.```
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
